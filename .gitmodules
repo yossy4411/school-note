@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/yossy4411/school-note-obs.git
