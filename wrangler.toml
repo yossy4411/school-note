@@ -1,0 +1,5 @@
+name = "school-note"
+
+[site]
+bucket = "./docs"
+entry-point = "."
