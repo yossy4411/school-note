@@ -11,14 +11,14 @@
             "id": "b4c80c2155c4dc89",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "hist/joumon/打製石器.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json"
+              "icon": "lucide-file",
+              "title": "打製石器"
             }
           }
         ]
@@ -212,11 +212,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4c80c2155c4dc89",
+  "active": "3f2b6f6480018498",
   "lastOpenFiles": [
+    "images",
+    "Pasted image 20250604211716.png",
+    "Pasted image 20250604211715.png",
+    "hist/歴史.md",
+    "hist/joumon/打製石器.md",
+    "hist/joumon/旧石器時代.md",
+    "hist/joumon/無題のフォルダ",
+    "hist/bc/紀元前の日本.md",
+    "hist/joumon/石器時代.md",
+    "hist/joumon/縄文時代.md",
+    "hist/bc/紀元前の世界.md",
+    "hist/bc/四大文明.md",
+    "hist/bc",
+    "hist/joumon",
     "index.md",
     "README.md",
-    "hist/歴史.md",
     "geom",
     "home",
     "tech",
