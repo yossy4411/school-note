@@ -27,7 +27,7 @@ jobs:
 
       - name: Update subtree
         run: |
-          git subtree pull --prefix content https://github.com/yossy4411/note.git --squash
+          git subtree pull --prefix content https://github.com/yossy4411/school-note-obs.git main --squash
 
       - name: Commit changes
         run: |
