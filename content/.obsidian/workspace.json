@@ -75,8 +75,7 @@
               "title": "飛鳥時代"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "508532482ade7cf1",
@@ -217,16 +217,6 @@
             }
           },
           {
-            "id": "aee6289b1c93ae28",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
-          },
-          {
             "id": "ef6b9d1a379f2d10",
             "type": "leaf",
             "state": {
@@ -235,16 +225,27 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "783fd5b4328ef9ff",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -255,10 +256,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8602d11269d0ddc",
+  "active": "2b154efe60ad77cc",
   "lastOpenFiles": [
-    "hist/nara/奈良時代.md",
     "hist/heian/平安時代.md",
+    "hist/nara/奈良時代.md",
     "hist/heian",
     "hist/joumon/尊王攘夷.md",
     "hist/asuka/飛鳥時代.md",
